@@ -1,5 +1,9 @@
 """
-This is a template algorithm on Quantopian for live trading.
+Author: Ian Doherty
+Date: April 26, 2017
+
+This is a template for Quantopian.
+Descriptive display of best practices to restrict your portfolio and trades.
 """
 
 from quantopian.algorithm import attach_pipeline, pipeline_output
